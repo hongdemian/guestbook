@@ -1,0 +1,21 @@
+{
+    "name": "hongdemian/guestbook",
+    "description": "guestbook and prototyping app",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Damien Hyatt",
+            "email": "connectingreflections@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^1.27",
+        "darksky/darksky": "^1.4",
+        "naughtonium/laravel-dark-sky": "^1.2",
+        "catfan/medoo": "^1.5"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^4.0"
+    }
+}
